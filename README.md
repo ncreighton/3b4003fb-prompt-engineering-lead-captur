@@ -1,2 +1,41 @@
-# 3b4003fb-prompt-engineering-lead-captur
-Stop manually copying data between apps and rebuilding the same process every time. Start fully automated pipeline that runs while you sleep.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Prompt Engineering Lead Captur
+# Prompt Engineering Lead Capture and CRM Sync N8N Workflow
+
+> Workflow for Prompt Engineering
+
+Stop manually copying data between apps and rebuilding the same process every time. Start fully automated pipeline that runs while you sleep.
+
+Import the JSON, set your credentials, click activate. Running in minutes.
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | ✅ | ✅ |
+| Standard nodes | ✅ | ✅ |
+| Manual execution | ✅ | ✅ |
+| Advanced triggers | ❌ | ✅ |
+| Custom nodes | ❌ | ✅ |
+| Scheduled execution | ❌ | ✅ |
+| Error handling | ❌ | ✅ |
+| Webhook integrations | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/28E6oHaDd1g0f44dI0cZw3J)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
